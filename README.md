@@ -7,6 +7,7 @@
 3) Description / Screenshots are included. <br>
 4) No Errors or warnings in NPM log. 
 5) No Issues shown in IDE.
+6) Is PO happy with the outcome?
 
 ## Functional
 1) Does written code serve all the functionalities requested by the feature?
