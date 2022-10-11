@@ -9,7 +9,7 @@
 5) No Issues shown in IDE.
 
 ## Functional
-Does written code serve all the functionalities requested by the feature?
+1) Does written code serve all the functionalities requested by the feature?
 
 ## Highlevel Code Scanning
 1) Code is readable and understandable.<br>
