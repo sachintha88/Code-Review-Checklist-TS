@@ -29,11 +29,11 @@
 7) [ ] Use default values to reduce upcoming logic
 8) [ ] Use destructuring assignments for arrays and objects.
 9) [ ] Use Promises or Async/Await. Rejection is handled.
-10) [ ] Unnecessary nested logic avoided
+10) [ ] Nested logic avoided.
 
 ## React and TS
 1) [ ] Do components have reasonable props
-2) [ ] Are interfaces written with correct types for the props and the compulsoriness of the prop (mandatory or optional)
+2) [ ] Are interfaces written with correct types for the props and imposes the correct compulsoriness to the props (mandatory or optional)
 3) [ ] No state updates in a loop.
 4) [ ] Correct use of native react hooks
 
