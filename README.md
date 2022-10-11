@@ -1,1 +1,1 @@
-# Code-Review-Checklist---Typescript
+# Code-Review-Checklist (Typescript)
