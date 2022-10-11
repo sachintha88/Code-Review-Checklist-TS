@@ -41,10 +41,3 @@
 ## Others
 1) Have meaningful commit messages
 2) Check if there are mistakenly added files
-
-<ul class="ck ck-todolist">
-  <li class="ck-todolist__item">
-    <span class="ck-todolist__item-checkbox"></span>
-    <span class="ck-todolist__item-content">Create a strong device passcode</span>
-  </li>
-</ul>
