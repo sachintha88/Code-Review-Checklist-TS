@@ -33,7 +33,7 @@
 
 ## React and TS
 1) Do components have reasonable props
-2) Are interfaces written with correct types for the props and correct necessity of the prop (mandatory or optional)
+2) Are interfaces written with correct types for the props and the compulsoriness of the prop (mandatory or optional)
 3) No state updates in a loop.
 4) Correct use of native react hooks
 
