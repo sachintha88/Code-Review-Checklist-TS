@@ -4,10 +4,10 @@
 
 1) [ ] Do I understand what this code meant to be/ask for a demo if you need it. if not, ask for clarification<br>
 2) [ ] Does the code work? <br>
-3) Description / Screenshots are included. <br>
-4) No Errors or warnings in the NPM log. 
-5) No Issues shown in IDE.
-6) Is PO happy with the outcome?
+3) [ ] Description / Screenshots are included. <br>
+4) [ ] No Errors or warnings in the NPM log. 
+5) [ ] No Issues shown in IDE.
+6) [ ] Is PO happy with the outcome?
 
 ## Functional
 1) Does the code serve all the functionalities requested by the feature?
