@@ -10,34 +10,34 @@
 6) [ ] Is PO happy with the outcome?
 
 ## Functional
-1) Does the code serve all the functionalities requested by the feature?
+1) [ ] Does the code serve all the functionalities requested by the feature?
 
 ## Highlevel Code Scanning
-1) Code is readable and understandable.<br>
-2) Code is written following the coding standards <br>
-3) Code is written to match existing code patterns/technologies.<br>
-4) Separation of Concerns followed.<br>
-5) Are functions/classes/components reasonably small?<br>
+1) [ ] Code is readable and understandable.<br>
+2) [ ] Code is written following the coding standards <br>
+3) [ ] Code is written to match existing code patterns/technologies.<br>
+4) [ ] Separation of Concerns followed.<br>
+5) [ ] Are functions/classes/components reasonably small?<br>
 
 ## Code Style
-1) DRY. (Don't Repeat Yourself) No duplication of code<br>
-2) Unnecessary console.logs removed<br>
-3) Naming conventions followed for variables and file names.<br>
-4) Minimum use of hardcoded values; use constants values.
-5) No unnecessary comments / Add necessary comments.
-6) Use Lodash Features
-7) Use default values to reduce upcoming logic
-8) Use destructuring assignments for arrays and objects.
-9) Use Promises or Async/Await. Rejection is handled.
-10) Unnecessary nested logic avoided
+1) [ ] DRY. (Don't Repeat Yourself) No duplication of code<br>
+2) [ ] Unnecessary console.logs removed<br>
+3) [ ] Naming conventions followed for variables and file names.<br>
+4) [ ] Minimum use of hardcoded values; use constants values.
+5) [ ] No unnecessary comments / Add necessary comments.
+6) [ ] Use Lodash Features
+7) [ ] Use default values to reduce upcoming logic
+8) [ ] Use destructuring assignments for arrays and objects.
+9) [ ] Use Promises or Async/Await. Rejection is handled.
+10) [ ] Unnecessary nested logic avoided
 
 ## React and TS
-1) Do components have reasonable props
-2) Are interfaces written with correct types for the props and the compulsoriness of the prop (mandatory or optional)
-3) No state updates in a loop.
-4) Correct use of native react hooks
+1) [ ] Do components have reasonable props
+2) [ ] Are interfaces written with correct types for the props and the compulsoriness of the prop (mandatory or optional)
+3) [ ] No state updates in a loop.
+4) [ ] Correct use of native react hooks
 
 
 ## Others
-1) Have meaningful commit messages
-2) Check if there are mistakenly added files
+1) [ ] Have meaningful commit messages
+2) [ ] Check if there are mistakenly added files
