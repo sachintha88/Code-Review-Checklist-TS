@@ -28,6 +28,7 @@
 7) Use default values to reduce upcomming logic
 8) Use destructuring assignment for arrays and objects.
 9) Use Promises or Asyns/Await. Rejection is handled.
+10) Unnecessary nested logics avoided
 
 ## React and TS
 1) Do components have reasonable props
