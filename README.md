@@ -1,4 +1,4 @@
-# Code-Review-Checklist (Typescript)
+# Code-Review-Checklist (React / Typescript)
 
 ## General
 
