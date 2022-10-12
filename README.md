@@ -17,12 +17,12 @@
 2) [ ] Code is written following the coding standards <br>
 3) [ ] Code is written to match existing code patterns/technologies.<br>
 4) [ ] Separation of Concerns followed.<br>
-5) [ ] Are functions/classes/components reasonably small?<br>
+5) [ ] Are functions/classes/components dedicated to a primary purpose?<br>
 
 ## Code Style
 1) [ ] DRY. (Don't Repeat Yourself) No duplication of code<br>
 2) [ ] Unnecessary console.logs removed<br>
-3) [ ] Naming conventions followed for variables and file names.<br>
+3) [ ] Naming conventions followed for variables and file names.
 4) [ ] Minimum use of hardcoded values; use constants values.
 5) [ ] No unnecessary comments / Add necessary comments.
 6) [ ] Use Lodash Features
@@ -30,6 +30,7 @@
 8) [ ] Use destructuring assignments for arrays and objects.
 9) [ ] Use Promises or Async/Await. Rejection is handled.
 10) [ ] Nested logic avoided.
+11)  [ ] Code should be declarative rather than imperative. Exceptions made when performance requirements make it impossible.
 
 ## React and TS
 1) [ ] Do components have reasonable props
